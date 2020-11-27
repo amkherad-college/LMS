@@ -1,4 +1,4 @@
-<div style="direction: rtl;">
+<div style="direction: rtl;" rtl="rtl" dir="rtl">
 
 # پروپوزال پروژه دانشگاه
 
